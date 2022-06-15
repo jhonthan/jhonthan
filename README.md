@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hello, I am Jonathan Luiz 👋
 
+-------------------------------------------------------------------------
+
+### About Me!
+
+😄 I'm a System Administrator with more 10 years of experience and I'm learning about the culture of DevOps and doing small Labs.
+
+### 🛠️ Stack
+
+🖥 Linux * Debian * Ubuntu * CentOS * Manjaro
+
+### 📚 Studing
+
+📝 Docker * Kubernetes * Terraform * Ansible * GitHub Actions (CI/CD)
 <!--
 **jhonthan/jhonthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
