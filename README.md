@@ -4,7 +4,7 @@
 
 ### About Me!
 
-😄 I'm a System Administrator with more 10 years of experience and I'm learning about the culture of DevOps and doing small Labs.
+😄 I'm a System Administrator with more than 10 years of experience and I'm learning about the culture of DevOps and doing small Labs.
 
 ### 🛠️ Stack
 
