@@ -4,15 +4,15 @@
 
 ### About Me!
 
-😄 I currently work as a DevOps Engineer in solutions based on microservices running in Docker and Kubernetes (k8s).
+😄 I currently work as a DevOps Engineer in solutions based on microservices running in Docker and Kubernetes (k8s)
 
 ### 🛠️ Stack
 
 🖥 Linux * Debian * Ubuntu * CentOS * Manjaro
 
-### 📚 Studing
+### 🖥 Working
 
-📝 Docker * Kubernetes * Terraform * Ansible * GitHub Actions (CI/CD)
+📝 Docker * Kubernetes * Terraform * Ansible * GCP * AWS
 <!--
 **jhonthan/jhonthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
