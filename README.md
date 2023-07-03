@@ -8,10 +8,6 @@
 
 ### 🛠️ Stack
 
-🖥 Linux * Debian * Ubuntu * CentOS * Manjaro
-
-### 🖥 Working
-
 📝 Docker * Kubernetes * Terraform * Ansible * GCP * AWS
 <!--
 **jhonthan/jhonthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
