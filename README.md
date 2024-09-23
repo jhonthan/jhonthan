@@ -17,13 +17,17 @@
 ###
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/helm/helm-original.svg" height="40" alt="helm logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
+  <img width="12" />
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg" height="40" alt="shell script logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
@@ -33,7 +37,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-plain.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-plain-wordmark.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
