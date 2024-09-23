@@ -23,14 +23,17 @@
   <img width="12" />
   <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg" height="40" alt="shell script logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
+  
   
   <img width="12" />
  
@@ -39,4 +42,4 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-![jhonthan's Stats](https://github-readme-stats.vercel.app/api?username=jhonthan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+https://github-readme-stats.vercel.app/api?username=jhonthan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
