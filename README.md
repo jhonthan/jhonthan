@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as DevOps Engineer in HighQSoft GmbH<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br>- 🔭 I’m working as DevOps Engineer in HighQSoft GmbH<br>- 📚 I'm currently learning Python and Kubernetes in the focus in CKA Exam<br>- ⚡ In my free time I like to stay with my family.</p>
 
 ###
 
@@ -39,11 +39,4 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="![jhonthan's Stats](https://github-readme-stats.vercel.app/api?username=jhonthan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)"  />
-</div>
-
-###
+![jhonthan's Stats](https://github-readme-stats.vercel.app/api?username=jhonthan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
