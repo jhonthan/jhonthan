@@ -29,17 +29,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg" height="40" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-plain.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
- 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rancher/rancher-original-wordmark.svg" height="40" alt="rancher logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pfsense/pfsense-original-wordmark.svg" height="40" alt="pfsense logo"  />
+  <img width="12" />
+
+
 </div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-https://github-readme-stats.vercel.app/api?username=jhonthan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true
+
+![jhonthan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonthan&theme=tokyonight&hide_border=true)
