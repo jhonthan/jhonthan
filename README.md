@@ -29,15 +29,15 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-plain.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" height="40" alt="jenkins logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/githubactions.svg" height="40" alt="githubactions logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/githubactions/githubactions-plain.svg" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-plain-wordmark.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
