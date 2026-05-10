@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as DevOps Engineer in HighQSoft GmbH<br>- 📚 I'm currently learning Python and Kubernetes in the focus in CKA Exam<br>- ⚡ In my free time I like to stay with my family.</p>
+<p align="left"><br>- 🔭 I’m working as DevOps Engineer in Pioneer Europe R&D Center<br>- 📚 I'm currently learning Python and Kubernetes in the focus in CKA Exam<br>- ⚡ In my free time I like to stay with my family.</p>
 
 ###
 
